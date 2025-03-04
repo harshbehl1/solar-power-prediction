@@ -1,1 +1,1 @@
-# solar-power-prediction
+Solar power is a critical renewable energy source, and accurately forecasting its production is essential for grid management and energy planning. This project leverages regression models to predict solar power output based on key climate factors such as sunshine duration,air temperature,radiation,air pressure  and wind speed. By integrating historical and real-time climate data, the system delivers data-driven forecasts to optimize solar energy production and operational efficiency.
